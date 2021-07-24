@@ -10769,4 +10769,12 @@ textarea.form-control-lg {
   padding-bottom: 0.05%;
 }
 
+.row {
+  align-items: center;
+}
+
+.video-and-title {
+  align-items: center;
+}
+
 /*# sourceMappingURL=style.css.map */
