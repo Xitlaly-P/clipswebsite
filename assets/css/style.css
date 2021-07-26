@@ -10779,4 +10779,13 @@ textarea.form-control-lg {
   align-items: center;
 }
 
+.sec {
+  padding: 1%;
+  text-align: center;
+}
+
+#end {
+  padding-bottom: 1.5%;
+}
+
 /*# sourceMappingURL=style.css.map */
